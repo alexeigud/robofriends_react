@@ -1,9 +1,5 @@
 # robofriends
-Project meant to demonstrate React
+React project with Tachyons CSS toolkit that grabs RoboHash API and uses the robot images as persons for directory that user may filter through using search bar, either by name or e-mail address
 
-Tutorial for udemy course - React
-To run the project:
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+
